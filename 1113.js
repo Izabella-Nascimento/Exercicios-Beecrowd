@@ -4,8 +4,6 @@ var lines = input.split("\n");
 
 /////////////////////// COLAR NO BEECROWD O CODIGO DESTE PONTO EM DIANTE ///////////////////
 
-
-
 let x;
 let y;
 let firstLine = input.split("\n").map(conversion);
